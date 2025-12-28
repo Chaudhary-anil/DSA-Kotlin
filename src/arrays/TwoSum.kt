@@ -12,7 +12,7 @@ Use a map to store number → index, then check if complement exists.
 
 class TwoSum {
     fun twoSum(num: IntArray, target: Int): IntArray {
-        val map = mutableMapOf<Int, Int>()
+        val map = mutableMapOf<Int, Int>() //used mutableMapOf() which uses HashMap internally
         for (i in num.indices) {
             val need = target - num[i]
             if (map.containsKey(need)) {
