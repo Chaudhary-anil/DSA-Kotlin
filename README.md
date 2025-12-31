@@ -10,3 +10,5 @@ Data-Structure and Algorithm using Kotlin
 | Best Time To Buy Sell Stock| Arrays| [BestTimeToBuySellStock.kt](src/arrays/BestTimeToBuySellStock.kt)|
 | Best Time to BuySell Stock II| Arrays| [BestTimeToBuySellStockII.kt](src/arrays/BestTimeToBuySellStockII.kt)|
 |Single Element| Arrays| [SingleElement](src/arrays/SingleElement.kt)
+|Missing Number| Arrays| [Missing Number](src/arrays/MissingNumber.kt)
+|Majority Element| Arrays| [Majority Element](src/arrays/MajorityElement.kt)
