@@ -9,3 +9,4 @@ Data-Structure and Algorithm using Kotlin
  | Contains Duplicate | Arrays| [ContainsDuplicate.kt](src/arrays/ContainsDuplicate.kt) |
 | Best Time To Buy Sell Stock| Arrays| [BestTimeToBuySellStock.kt](src/arrays/BestTimeToBuySellStock.kt)|
 | Best Time to BuySell Stock II| Arrays| [BestTimeToBuySellStockII.kt](src/arrays/BestTimeToBuySellStockII.kt)|
+|Single Element| Arrays| [SingleElement](src/arrays/SingleElement.kt)
