@@ -12,3 +12,4 @@ Data-Structure and Algorithm using Kotlin
 |Single Element| Arrays| [SingleElement](src/arrays/SingleElement.kt)
 |Missing Number| Arrays| [Missing Number](src/arrays/MissingNumber.kt)
 |Majority Element| Arrays| [Majority Element](src/arrays/MajorityElement.kt)
+|Single Element III| Arrays| [Single Element III](src/arrays/SingleElement.kt)
