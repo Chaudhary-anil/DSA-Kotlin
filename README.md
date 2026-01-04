@@ -13,3 +13,4 @@ Data-Structure and Algorithm using Kotlin
 |Missing Number| Arrays| [Missing Number](src/arrays/MissingNumber.kt)
 |Majority Element| Arrays| [Majority Element](src/arrays/MajorityElement.kt)
 |Single Element III| Arrays| [Single Element III](src/arrays/SingleElement.kt)
+|Duplicate Number Finder| Arrays| [Duplicate number](src/arrays/FindDuplicateNumber.kt)
