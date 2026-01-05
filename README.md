@@ -14,3 +14,4 @@ Data-Structure and Algorithm using Kotlin
 |Majority Element| Arrays| [Majority Element](src/arrays/MajorityElement.kt)
 |Single Element III| Arrays| [Single Element III](src/arrays/SingleElement.kt)
 |Duplicate Number Finder| Arrays| [Duplicate number](src/arrays/FindDuplicateNumber.kt)
+|All Duplicate Number Finder| Arrays| [All Duplicate Numebr](src/arrays/AllDuplicateNumber.kt)
