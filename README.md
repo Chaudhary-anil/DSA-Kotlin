@@ -3,16 +3,16 @@
 Data-Structure and Algorithm using Kotlin
 
 ## Done
-| Problem            | Category | Source |
-|--------------------|----------|--------|
-| Two Sum            | Arrays   | [TwoSum.kt](src/arrays/TwoSum.kt) |
- | Contains Duplicate | Arrays| [ContainsDuplicate.kt](src/arrays/ContainsDuplicate.kt) |
-| Best Time To Buy Sell Stock| Arrays| [BestTimeToBuySellStock.kt](src/arrays/BestTimeToBuySellStock.kt)|
-| Best Time to BuySell Stock II| Arrays| [BestTimeToBuySellStockII.kt](src/arrays/BestTimeToBuySellStockII.kt)|
-|Single Element| Arrays| [SingleElement](src/arrays/SingleElement.kt)
-|Missing Number| Arrays| [Missing Number](src/arrays/MissingNumber.kt)
-|Majority Element| Arrays| [Majority Element](src/arrays/MajorityElement.kt)
-|Single Element III| Arrays| [Single Element III](src/arrays/SingleElement.kt)
-|Duplicate Number Finder| Arrays| [Duplicate number](src/arrays/FindDuplicateNumber.kt)
-|All Duplicate Number Finder| Arrays| [All Duplicate Numebr](src/arrays/AllDuplicateNumber.kt)
-|First Missing Numebr| Arrays| [First Missing Number](src/arrays/FirstMissingNumber.kt)
+| Problem                      | Category | Source |
+|------------------------------|----------|--------|
+| Two Sum                      | Arrays   | [TwoSum.kt](src/arrays/TwoSum.kt) |
+ | Contains Duplicate           | Arrays| [ContainsDuplicate.kt](src/arrays/ContainsDuplicate.kt) |
+| Best Time To Buy Sell Stock  | Arrays| [BestTimeToBuySellStock.kt](src/arrays/BestTimeToBuySellStock.kt)|
+| Best Time to BuySell Stock II | Arrays| [BestTimeToBuySellStockII.kt](src/arrays/BestTimeToBuySellStockII.kt)|
+| Single Element               | Arrays| [SingleElement](src/arrays/SingleElement.kt)
+| Missing Number               | Arrays| [Missing Number](src/arrays/MissingNumber.kt)
+| Majority Element             | Arrays| [Majority Element](src/arrays/MajorityElement.kt)
+| Single Element III           | Arrays| [Single Element III](src/arrays/SingleElement.kt)
+| Duplicate Number Finder      | Arrays| [Duplicate number](src/arrays/FindDuplicateNumber.kt)
+| All Duplicate Number Finder  | Arrays| [All Duplicate Numebr](src/arrays/AllDuplicateNumber.kt)
+| First Missing Number         | Arrays| [FirstMissingPositive](src/arrays/FirstMissingNumber.kt)
