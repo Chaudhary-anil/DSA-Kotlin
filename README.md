@@ -16,3 +16,4 @@ Data-Structure and Algorithm using Kotlin
 | Duplicate Number Finder      | Arrays| [Duplicate number](src/arrays/FindDuplicateNumber.kt)
 | All Duplicate Number Finder  | Arrays| [All Duplicate Numebr](src/arrays/AllDuplicateNumber.kt)
 | First Missing Number         | Arrays| [FirstMissingPositive](src/arrays/FirstMissingPositive.kt)
+| Missing and Repeating Number | Arrays| [Missing And Rpeatnig](src/arrays/MissingAndRepeatingNumber.kt)
