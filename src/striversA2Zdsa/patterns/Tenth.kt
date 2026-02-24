@@ -27,11 +27,27 @@ class Tenth {
             println()
         }
     }
+
+    fun tenthPatternII(value: Int) {
+        for (i in 1..2 * value - 1) {
+            val stars = if (i <= value) {
+                i
+            }
+            else {
+                2 * value - i
+            }
+
+            for (j in 1..stars) {
+                print("*")
+            }
+            println()
+        }
+    }
 }
 
 fun main() {
     val tenth = Tenth()
-    tenth.tenthPattern(5)
+    tenth.tenthPatternII(5)
 }
 
 
